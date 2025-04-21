@@ -43,13 +43,13 @@ ul li {
 
 footer{
     text-align: center;
-    padding: 1px;
+    padding: 0px;
+    font-size: 10px;
     background-color: #333;
     color: white;
     position: fixed;
     width: 100%;
     bottom: 0;
-}
 .logo {
     display: block;
     text-align: right;
